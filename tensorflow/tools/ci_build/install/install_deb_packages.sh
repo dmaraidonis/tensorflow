@@ -44,7 +44,7 @@ apt-get install -y --no-install-recommends \
     build-essential \
     clang-format-3.8 \
     curl \
-    ffmpeg \
+    libav-tools \
     git \
     libcurl4-openssl-dev \
     libtool \
